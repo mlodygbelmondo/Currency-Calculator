@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.380,C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\kurswalut.h=C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,=C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.231,C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\Unit5.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\projektkurswalut.cbproj=C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\projektkurswalut.cbproj=C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\Kalkulator Walutowy.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.920,C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\kantorwalut.h=C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.981,=C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\kurswalut.dfm=C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\kurswalut.cpp=C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.941,=C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\projektkurswalut.todo</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,=C:\Users\kaczo\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Kalkulator Walutowy.cpp"/>
+    <File Path="kurswalut.cpp"/>
+    <File Path="kurswalut.cpp"/>
+    <File Path="kurswalut.dfm"/>
+    <File Path="kurswalut.h"/>
+    <File Path="kantorwalut.h"/>
+  </ProjectSortOrder>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

@@ -1,0 +1,7 @@
+{DONE : mozliwosc wyboru jakas lista ze scrollbarem  Iguess}
+{DONE : koncowo trzeba ustawic by przy uruchomieniu automatyczie pobiera³ sie aktualny kurs i by od razu zwraca³ wartoœæ z³otówki dla jednego EUR, lub tam innej waluty któr¹ sie koncowo ustawi, imo euro optymalne}
+{TODO : spytaj soboty ile czego trzeba itp walut, czy musi byc resizable okienko, miejsca po przecinku jakies takie kurwa gowno jebane ja pierdole}
+{DONE : jeœli to ma byc kalkulator to trzeba dodaæ mozliwosc wprowadzenia kwoty}
+{TODO : przy braku internetu wystosowaæ odpowiedni komunikat}
+{TODO : dodaæ inne waluty}
+{DONE : naprawiæ design}
